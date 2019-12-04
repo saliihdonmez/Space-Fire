@@ -1,0 +1,10 @@
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\bin\Debug\SpaceFire.exe.config
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\bin\Debug\SpaceFire.exe
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\bin\Debug\SpaceFire.pdb
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\obj\Debug\SpaceFire.csprojAssemblyReference.cache
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\obj\Debug\SpaceFire.Form1.resources
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\obj\Debug\SpaceFire.Properties.Resources.resources
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\obj\Debug\SpaceFire.csproj.GenerateResource.cache
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\obj\Debug\SpaceFire.csproj.CoreCompileInputs.cache
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\obj\Debug\SpaceFire.exe
+C:\Users\salii\source\repos\SpaceFire\SpaceFire\obj\Debug\SpaceFire.pdb
